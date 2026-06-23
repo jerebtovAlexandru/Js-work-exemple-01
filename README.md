@@ -22,3 +22,10 @@
 - **Делегирование событий**: Обработчик кликов (`onhandleclick`) назначен на родительские контейнеры, что оптимизирует использование памяти.
 - **Уникальные ID**: Идентификация элементов реализована через генерацию хэша на базе `Date.now()` и `Math.random()`.
 - **Чистый JS**: Реализация Drag & Drop без использования сторонних библиотек.
+
+## Фото проекта 
+<img width="1000" height="900" alt="Снимок экрана 2026-06-23 121711" src="https://github.com/user-attachments/assets/76f70502-9ce5-4cfa-8d71-fe1dc7c3c422" />
+<img width="1000" height="900" alt="Снимок экрана 2026-06-23 121637" src="https://github.com/user-attachments/assets/b76199d2-4648-4e82-be60-b09007723afe" />
+<img width="1000" height="900" alt="Снимок экрана 2026-06-23 115652" src="https://github.com/user-attachments/assets/c432becc-618f-4fde-a900-ff2d4ab02084" />
+
+
